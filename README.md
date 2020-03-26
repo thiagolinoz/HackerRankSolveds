@@ -1,4 +1,4 @@
 # HackerRankSolveds
-Minhas resoluções das desafios na HackerRank em algoritmos
+Minhas resoluções dos desafios na HackerRank com algoritmos usando Java
 
 https://www.hackerrank.com/
